@@ -2,7 +2,7 @@
     "name": "bullpen-redux",
     "version": "0.0.2",
     "description": "redux implementation of bullpen",
-    "author": "Derek Dunagan (https://github.com/rhombal)",
+    "author": "Derek Dunagan (https://github.com/d11n)",
     "license": "MIT",
     "keywords": [
         "store",
@@ -16,11 +16,11 @@
     "main": "target/npm/index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/rhombal/bullpen-redux.git"
+        "url": "git+https://github.com/d11n/bullpen-redux.git"
     },
-    "homepage": "https://github.com/rhombal/bullpen-redux#readme",
+    "homepage": "https://github.com/d11n/bullpen-redux#readme",
     "bugs": {
-        "url": "https://github.com/rhombal/bullpen-redux/issues"
+        "url": "https://github.com/d11n/bullpen-redux/issues"
     },
     "dependencies": {
         "bullpen": "0.0.8",
