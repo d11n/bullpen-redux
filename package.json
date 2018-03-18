@@ -1,6 +1,6 @@
 {
     "name": "bullpen-redux",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "redux implementation of bullpen",
     "author": "Derek Dunagan (https://github.com/d11n)",
     "license": "MIT",
