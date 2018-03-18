@@ -23,8 +23,10 @@
         "url": "https://github.com/d11n/bullpen-redux/issues"
     },
     "dependencies": {
-        "bullpen": "0.0.8",
-        "redux": "^3.7.2"
+        "bullpen": "0.0.10"
+    },
+    "peerDependencies": {
+        "redux": "3.x"
     },
     "devDependencies": {
         "babel-cli": "^6.26.0",
